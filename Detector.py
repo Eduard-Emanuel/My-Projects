@@ -12,7 +12,7 @@ def open_dir():
     if not dir:
         return
   
-    window.title(f"Simple Text Editor - {dir}")
+    window.title(f"Detector de Fail - {dir}")
     
 def redenumire():
 
